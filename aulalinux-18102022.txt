@@ -1,0 +1,20 @@
+1 - MintUpdate
+  a) atualizar --> apt --> sources.list
+  b) repositorios --> apt --> sources.list =(diretorio)
+  c) PESQUISAR: o que é PPA's
+  d) Instalar Ataulização -->apt
+  
+2- instalação dos convidados do vitual box
+  a) dispositivos -> inserir imagem do CD dos convidados
+ 
+3- atualizando via linha de comando
+   pesqsuisar: o que é bash? shell? apt-get?sudo?
+   
+   sudo apt update --> MintUpdate Atualizar
+   sudo apt upgrade --> mintupdate instalar
+   sudo apt full-upgrade --> 
+   sudo apt dist-upgrade --> 
+   sudo apt autoremove 
+   sudo apt autoclean
+   sudo apt clean
+   history
