@@ -1,0 +1,17 @@
+#QUARTA ETAPA -
+-Comando de Mover (renomear)
+mv - ORIGEM DESTINO 
+-Comando de Copiar
+cp -v ORIGEM DESTINO
+- Comando de imprimir mensagem na tela 
+echo
+EX: echo SENAC Tatuapé > SENAC.txt
+-Comando para listar o conteúdo do arquivo
+cat -n
+cat -n/etc/services
+-Comando para listar o conteúdo do arquivo, mas eu posso escolher as linhas
+head/etc/services (-n20 lista as últimas 20)
+tail/etc/services (-n20 lista as últimas 20)
+
+#Desafio do Prof.Ramos (o melhor!!!)
+cat -n /etc/services | head -200 | tail -101
